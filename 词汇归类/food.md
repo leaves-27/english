@@ -1,9 +1,11 @@
 # fruit
 
-* apricot：杏子
+
 * cherry:樱桃
+* longan: 桂圆/龙眼
 * pumelo：柚子
-* durin:榴莲
+
+
 * dragon fruit：火龙果
 * kiwi fruit: 猕猴桃或者奇异果
 * peach：桃子
@@ -20,10 +22,11 @@
 * banana：
 * grape：葡萄
 * raisins：葡萄干
+
+* apricot：杏子
 * nectarine：油桃
+* durin:榴莲
 
-
-* longans: 桂圆
 * coconut：椰子
 * Lemon：柠檬
 
