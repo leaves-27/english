@@ -2,7 +2,7 @@
 
 * grape：葡萄
 * strawberry：草莓
-* cherry:樱桃
+* cherry: 樱桃
 * longan: 桂圆/龙眼
 * lichee：荔枝
 * apricot：杏子
@@ -23,7 +23,7 @@
 * pumelo：柚子
 * pineapple：菠萝
 * dragon fruit：火龙果
-* durin:榴莲
+* durin: 榴莲
 
 ## 干果
 * peanut：花生
