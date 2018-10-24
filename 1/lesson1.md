@@ -1,5 +1,7 @@
 # 句型：
-is it ....
+1.Excuse me. Yes?
+2.pardon
+3.is this your handbag？　Yes, it is.
 
 # 生词：
 1.type：录音
