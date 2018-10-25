@@ -30,27 +30,27 @@
     Lesson 55 The Sawyer family 索耶一家人   
     Lesson 57 An unusual day 不平常的一天   
 
-6.向某人要某个或某些东西：
-    Lesson 21 Which book？哪一本书？
-    Lesson 23 Which glasses？哪几只杯子？
+6.向某人要某个或某些东西：   
+    Lesson 21 Which book？哪一本书？   
+    Lesson 23 Which glasses？哪几只杯子？   
 
-7.购物:
-    Lesson 49 At the butcher's 在肉店
-    Lesson 59 Is that all？就这些吗？
+7.购物:   
+    Lesson 49 At the butcher's 在肉店   
+    Lesson 59 Is that all？就这些吗？   
 
-8.天气气候:
-    Lesson 51 A pleasant climate 宜人的气候
-    Lesson 53 An interesting climate 有趣的气候
+8.天气气候:   
+    Lesson 51 A pleasant climate 宜人的气候   
+    Lesson 53 An interesting climate 有趣的气候   
 
-9.朋友一起喝饮料、咖啡、茶:
-    Lesson 47 A cup of coffee 一杯咖啡
+9.朋友一起喝饮料、咖啡、茶:   
+    Lesson 47 A cup of coffee 一杯咖啡   
 
-10.工作:
-    Lesson 45 The boss's letter 老板的信
+10.工作:   
+    Lesson 45 The boss's letter 老板的信   
 
-11.下达命令
-    Lesson 29 Come in，Amy. 进来，艾米。
-    Lesson 39 Don’t drop it！别摔了！
+11.下达命令   
+    Lesson 29 Come in，Amy. 进来，艾米。   
+    Lesson 39 Don’t drop it！别摔了！   
 
 
 
