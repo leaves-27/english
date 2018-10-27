@@ -1,11 +1,5 @@
 # 句型：
-How is ...
-How are ...
-
-
-# 生词：
-Emma
-Helen
-Steven
-Tony
+I am fine
+I am very well,too
+Nice too see you.
 

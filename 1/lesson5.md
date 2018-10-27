@@ -1,13 +1,7 @@
-
 # 句型：
-this is ....
-name is ....
+this is sophie Dupot
+she is French
+nice to meet/see you.
 
-# 生词：
-French--------France
-German--------Germany
-Japanese------Japan
-Korean--------Korea
-Chinese-------china
 
 
