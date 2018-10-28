@@ -53,6 +53,19 @@
     Lesson 39 Don’t drop it！别摔了！   
 
 
+### 表达做什么
+  i do ...
+
+### 表达正在做什么
+  i am doing ..
+
+### 表达将要做什么
+  i am going to ...
+
+### 表达什么中的什么
+  ... of ...
+
+
 
 
 

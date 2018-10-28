@@ -7,6 +7,7 @@
 4.Emma:艾玛
 5.Nicola Grey:尼克拉.格雷
 6.Claire Taylor:克莱尔.泰勒
+7.Jane
 
 ## 男性
 1.Mr . Blake:布莱克
