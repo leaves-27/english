@@ -15,6 +15,16 @@
 
 	shining:光亮的；华丽的
 
+	favourite:
+
+	hard:
+
+	heavy:
+	light:
+
+	boiling
+	
+
 ## 形容人
 	new:
 	lovely:亲切友好/心地善良

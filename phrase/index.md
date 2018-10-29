@@ -9,4 +9,22 @@
 * put it there
 
 * don't do that.
+
+* be careful.
 * don't drop it.
+
+* make a bookcase
+
+* work hard
+
+* a bar of 
+* a loaf of 
+* a piece of 
+
+* a pound of 
+* a bottle of 
+* half a a pound of 
+* a quarter of a pound of 
+* a tin of 
+
+* come here a minute 

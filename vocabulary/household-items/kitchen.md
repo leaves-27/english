@@ -6,6 +6,9 @@
 * cup: 杯子
 * table:
 * bottle:
+* cupboard: 碗橱
+* kettle
+
 
 
 ## 扩展

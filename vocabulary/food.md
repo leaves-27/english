@@ -46,3 +46,20 @@
 * duck 鸭肉
 * fish 鱼肉
 
+# 
+bag 
+
+* milk
+* tea
+* coffee--black coffee(清咖啡)
+* sugar
+
+* cheese:乳酪
+* bread:
+
+* chocolate:巧克力
+* biscuits
+
+* soap
+* tobacco:烟丝
+
