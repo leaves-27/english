@@ -1,7 +1,8 @@
 # 常见代词
 1.this
 2.that
-3.one
-4.here
-5.there
-6.it
+3.it
+
+4.one
+5.here
+6.there
