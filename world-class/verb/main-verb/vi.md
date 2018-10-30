@@ -2,8 +2,8 @@
 listen
 look
 
-run
 walk
+run
 fly
 swim
 
@@ -19,14 +19,13 @@ boil
 
 do
 work
-shine
 hurry
 
-
+shine
 rise
 set
 
-live
+live 
 stay
 
 play
@@ -61,7 +60,7 @@ swim across
 
 work hark
 
- do that
+do that
 
 live at
 stay at
