@@ -66,6 +66,16 @@
   ... of ...
 
 
+# 常见句子
+
+1.there we are
+  here you are
+  here they are
+  here it is
+
+2.in the front of ...
+
+
 
 
 
