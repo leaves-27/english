@@ -1,12 +1,14 @@
 # nationality/国籍
 
 * Chinese  --------- China
-* Russians --------- Russia
 * Japanese --------- Japan
+
 * Korean ----------- Korea
+* Russians --------- Russia
 
 * American --------- America
 * English ---------- England
+
 * German   --------- Germany
 * French ----------- France
 * Italian ---------- Italy
