@@ -1,31 +1,21 @@
-# 名词:
-	10.skirt
-	11.coat
-	18.suit
-	
-	6.pen
-	7.pencil
-	8.book
+1.job: 
+  (1)职业:What's your job?
+  (2)工作、活计:The whole job takes about 40 minutes
+  (3)职责: It's your job to be on time
 
-	5.handbag
-	9.watch
-	13.ticket
-	23.passport
-	15.umbrella
-	
-	17.cloakroom
-	19.school
-	12.house
-	
-	16.number
-	
-	27.today
+2.nurse:
+  (1)护士:a nurse
+  (2)照看:nurse her child.
+  (3)养护、培养: nurse a young tree/nurse an author of promise
 
-# 名词短语
-1.some of the child
-2.our village
-3.the banks of the river
-
+3.make: 牌子、品牌
+4.dress  n.
+ （1）连衣裙；套裙：Is this your dress?
+ （2）服装；衣服：casual dress/evening dress
+5.suit:（一套）衣服.
+  Is this your suit?
+  a man's suit 一套男装
+　a woman's suit 一套女装
 
 
 

@@ -10,3 +10,10 @@
 * coat: 外套
 
 * trousers 裤子
+
+# 其他日用品
+handbag
+watch
+ticket
+passport
+umbrella
