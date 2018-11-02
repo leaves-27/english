@@ -33,8 +33,10 @@ play
 
 # 不及物动词短语
 listen to
+
 look at 看，瞧，望
 look on 面向
+look out 当心
 
 sit down
 sit under

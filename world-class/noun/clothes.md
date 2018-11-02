@@ -9,11 +9,14 @@
 * hat: 帽子  
 * coat: 外套  
 
-* trousers 裤子  
+* trousers 裤子   
+* tie 领带 
 
 # 其他日用品 
-handbag  
-watch  
-ticket  
-passport  
-umbrella  
+handbag    
+watch   
+ticket    
+passport   
+umbrella    
+carpet  
+case  

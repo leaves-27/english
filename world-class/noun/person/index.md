@@ -5,10 +5,20 @@ i
 he  
 she  
 
+
 sir  
+
+father
+mother
+
 son  
 daughter   
-teacher  
+
+brother
+sister 
+
+
+teacher 
 
 policeman      
 policewoman  
