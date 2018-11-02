@@ -1,20 +1,22 @@
 # color/colour
 
-* white
-* black
-* grey
-* silver
-* brown
+* white  
+* black  
 
-* red
-* blue
-* green
+* red  
+* blue  
+* green 
+* grey   
 
-* orange
-* yellow
-* golden
+* orange  
+* yellow  
+* pink  
 
-* purple
-* pink
+* golden 
+* purple  
+* brown   
+* silver   
+
+
 
 

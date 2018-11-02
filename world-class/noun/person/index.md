@@ -1,28 +1,28 @@
 # 人称
-you
-me
-i
-he
-she
+you  
+me  
+i  
+he  
+she  
 
-sir
-son
-daughter
-teacher
+sir  
+son  
+daughter   
+teacher  
 
-policeman
-policewoman
+policeman      
+policewoman  
 
-taxi driver
-air hostess:空姐
+taxi driver  
+air hostess:空姐  
 
-postman
-nurse
+postman  
+nurse  
 
-mechanic:机械师
-hairdresser:理发师
+mechanic:机械师  
+hairdresser:理发师  
 
-housewife
-milkman
+housewife  
+milkman  
 
-keyboard operator
+keyboard operator  

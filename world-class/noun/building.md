@@ -1,5 +1,5 @@
 # 建筑：
-cloakroom
-school
-house
+cloakroom  
+school  
+house  
 	
