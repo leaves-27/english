@@ -13,3 +13,6 @@
 * a pad:  
 * glue 
 * handwriting 
+
+* desk
+* chair

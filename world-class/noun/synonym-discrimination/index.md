@@ -25,3 +25,7 @@
 # customs:
 　(1)海关: The spy was stopped at the Customs and questioned.
 　(2)征收关税的程序: How long will it usually take to pass the Customs?
+
+# desk/table:
+  (1)desk:通常指有抽屉的桌子，用于办公、读书、写字等，即"书桌"、"写字台"、"办公桌"：
+  (2)table:通常指由若干条腿支撑着的平板，没有抽屉，即"餐桌"、"会议桌"、"工作台"、"手术台"等：

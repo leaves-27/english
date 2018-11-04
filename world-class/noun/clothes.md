@@ -11,6 +11,7 @@
 
 * trousers 裤子   
 * tie 领带 
+* shose
 
 # 其他日用品 
 handbag    
