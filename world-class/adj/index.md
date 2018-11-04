@@ -11,20 +11,20 @@
 	untidy:
 	tidy:
 
-	small/little
-	large/big
-
-	heavy:
-	light:
-
 	dirty:
 	clean:
+
+	small/little
+	large/big
 
 	hot:
 	cold:
 
 	empty
 	full
+
+	heavy:
+	light:
 
 	new 
 	old
@@ -52,4 +52,9 @@
 	long
 	short
 
+	open
+	shut
+
+	tired
+	thirsty
 
