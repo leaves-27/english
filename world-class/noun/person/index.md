@@ -5,7 +5,6 @@ i
 he  
 she  
 
-
 sir  
 
 father
@@ -16,7 +15,6 @@ daughter
 
 brother
 sister 
-
 
 teacher 
 
@@ -42,3 +40,4 @@ sales reps  推销员
 assistant 助手   
 
 spy 间谍
+tourist:游客
