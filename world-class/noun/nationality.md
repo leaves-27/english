@@ -14,7 +14,7 @@
 * Italian ---------- Italy
 
 * Spaniards -------- Spain
-* Netherlander ----- Netherland
+* Dutch ------------ Holland/Netherland
 
 * Swedish ---------- Sweden
 * Danish ----------- Denmark

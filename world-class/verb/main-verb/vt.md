@@ -52,6 +52,7 @@ tell
 have
 buy
 type
+wear
 
 
 # 及物动词短语

@@ -35,4 +35,10 @@ hairdresser:理发师
 housewife  
 milkman  
 
-keyboard operator  
+keyboard operator 
+
+sales reps  推销员  
+
+assistant 助手   
+
+spy 间谍

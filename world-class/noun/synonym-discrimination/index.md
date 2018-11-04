@@ -15,4 +15,13 @@
 # suit:（一套）衣服.
   Is this your suit?
   a man's suit 一套男装
-　a woman's suit 一套女装
+  a woman's suit 一套女装
+
+
+# custom:
+　(1)风俗: When visiting a foreign country, we might find the country's customs strange to us.
+　(2)习惯: It is his custom to go for a walk in the evenings.
+
+# customs:
+　(1)海关: The spy was stopped at the Customs and questioned.
+　(2)征收关税的程序: How long will it usually take to pass the Customs?
