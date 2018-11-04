@@ -29,32 +29,11 @@
 	new 
 	old
 
-	youny
-	old
-
 	sharp
 	blunt
-
-	busy:  
-
-	hard-working:勤快  
-	lazy:懒惰  
-
-	old:
-	young:
-
-	fat
-	thin
-
-	tall
-	short
-
-	long
-	short
 
 	open
 	shut
 
-	tired
-	thirsty
+	private
 

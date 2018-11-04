@@ -19,5 +19,6 @@ watch
 ticket    
 passport   
 umbrella    
-carpet  
-case  
+carpet: 地毯  
+case: 箱子
+vase: 花瓶  
