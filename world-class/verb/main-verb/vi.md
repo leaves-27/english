@@ -30,6 +30,14 @@ stay
 
 play
 
+sweep
+dust
+read
+
+sharpen
+air
+empty
+clean
 
 # 不及物动词短语
 listen to
@@ -67,3 +75,12 @@ do that
 
 live at
 stay at
+
+put on
+take off
+
+turn on
+turn off
+
+
+

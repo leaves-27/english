@@ -32,3 +32,9 @@
 	nice:指讨人喜欢,或许是容貌,或许是言行,或许是穿戴.
 	smart:指穿着款式使人显得“帅”.
 	lovely:常用于表达说话人的赞美和喜爱.
+
+# empty
+  (1)adj:空的；呆板的；空虚的，无意义的；
+  	her purse is empty/she looked at him with empty eyes/It's an empty dream.;
+  (2)vt:倒空/搬空/清空.empty the bottle of milk/They emptied the house.
+  (3)vi:流出、走出
