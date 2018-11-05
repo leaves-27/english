@@ -12,13 +12,3 @@
 * trousers 裤子   
 * tie 领带 
 * shose
-
-# 其他日用品 
-handbag    
-watch   
-ticket    
-passport   
-umbrella    
-carpet: 地毯  
-case: 箱子
-vase: 花瓶  
