@@ -29,6 +29,9 @@
 	new 
 	old
 
+	long
+	short
+
 	sharp
 	blunt
 
