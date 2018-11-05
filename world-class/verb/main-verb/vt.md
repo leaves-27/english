@@ -54,6 +54,9 @@ buy
 type
 wear
 
+cook
+sharp
+
 
 # 及物动词短语
 get ... back

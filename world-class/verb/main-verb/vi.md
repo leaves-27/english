@@ -34,10 +34,11 @@ sweep
 dust
 read
 
-sharpen
+sharpe
 air
 empty
 clean
+turn
 
 # 不及物动词短语
 listen to

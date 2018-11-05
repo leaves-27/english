@@ -24,17 +24,6 @@
 * kettle: 水壶
 * tin: 罐头盒
 
-# 其他日用品 
-* handbag     
-* watch     
-* umbrella  
-    
-* case: 箱子
-* vase: 花瓶  
-
-* ticket    
-* passport
-
 * carpet: 地毯  
 
 # 扩展
