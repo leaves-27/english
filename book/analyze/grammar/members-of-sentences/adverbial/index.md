@@ -10,7 +10,6 @@
   along: along the banks of the river.
   beside:
 
-
 ## 方式状语
   on:on foot
   by:by car 
